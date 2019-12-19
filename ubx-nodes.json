@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "name": "Roy's Indiana Node",
+      "url": "174.96.247.179",
+      "port": 11999,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "VPSDime UniBit-X Node #1",
+      "url": "104.251.210.140",
+      "port": 11999,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Jon's Texas Node",
+      "url": "72.179.57.13",
+      "port": 11999,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Cryptonote.Club Pool Node",
+      "url": "80.241.209.166",
+      "port": 11999,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
+
+
+
+
+
